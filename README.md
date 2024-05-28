@@ -24,7 +24,7 @@ In this project, we compare the similarity between two images using different me
 
 ## Results
 
-### Traditional Similarity Metrics on the images you can see in data/:
+### Traditional Similarity Metrics on the images you can see in /data:
 - **Structural Similarity Index (SSIM):** 0.01138052929677652
 - **Root Mean Square Error (RMSE):** 222.40602572272581
 - **Peak Signal-to-Noise Ratio (PSNR):** 1.1878726175040497
