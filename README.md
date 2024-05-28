@@ -1,6 +1,5 @@
 # Image-Similarity-Comparison-Using-Graph-Based-methods-with-traditional-similarity-metrics
 
-# Image Similarity Comparison
 
 This project aims to compare the similarity between two images using both traditional similarity metrics and a graph-based method. The traditional metrics include Structural Similarity Index (SSIM), Root Mean Square Error (RMSE), Peak Signal-to-Noise Ratio (PSNR), and Image Structural Similarity Measure (ISSM). The graph-based method involves dividing the images into patches, creating fully connected graphs for each image, and computing similarity based on the cosine similarity between the adjacency matrices.
 
