@@ -43,7 +43,7 @@ In this project, we compare the similarity between two images using different me
 
   
 ## Our findings
-- Graph based methods are more accurate however their excetion is significantally high. It grows exponentially by increasing the graph size(in our case increasing the number of patches).
+- Graph based methods are more accurate(with suitable number of patches which is a hyperparameter) however their execution time is significantally high. It grows exponentially by increasing the graph size(in our case increasing the number of patches).
 
 ## How to Run
 - Clone or download this repository and just run the jupyter notbook file (Don't forget to change the image names and paths :basecampy:)
